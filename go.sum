@@ -843,8 +843,8 @@ github.com/mtibben/percent v0.2.1 h1:5gssi8Nqo8QU/r2pynCm+hBQHpkB/uNK7BJCFogWdzs
 github.com/mtibben/percent v0.2.1/go.mod h1:KG9uO+SZkUp+VkRHsCdYQV3XSZrrSpR3O9ibNBTZrns=
 github.com/munnerz/goautoneg v0.0.0-20191010083416-a7dc8b61c822 h1:C3w9PqII01/Oq1c1nUAm88MOHcQC9l5mIlSMApZMrHA=
 github.com/munnerz/goautoneg v0.0.0-20191010083416-a7dc8b61c822/go.mod h1:+n7T8mK8HuQTcFwEeznm/DIxMOiR9yIdICNftLE1DvQ=
-github.com/musalbas/celestia-core v0.0.0-20230902103342-e81edc4757de h1:h1d81jF2IUe9W/zw8DWwkVHPSy20XqvSVz6YiARuGTU=
-github.com/musalbas/celestia-core v0.0.0-20230902103342-e81edc4757de/go.mod h1:++dNzzzjP9jYg+NopN9G8sg1HEZ58lv1TPtg71evZ0E=
+github.com/musalbas/celestia-core v0.0.0-20230902141511-0455e653d8c6 h1:uq4xnAI7kazETn8QWwrBcgLgBs55udnfSJ+HUDVDXG8=
+github.com/musalbas/celestia-core v0.0.0-20230902141511-0455e653d8c6/go.mod h1:++dNzzzjP9jYg+NopN9G8sg1HEZ58lv1TPtg71evZ0E=
 github.com/mwitkow/go-conntrack v0.0.0-20161129095857-cc309e4a2223/go.mod h1:qRWi+5nqEBWmkhHvq77mSJWrCKwh8bxhgT7d/eI7P4U=
 github.com/mwitkow/go-conntrack v0.0.0-20190716064945-2f068394615f h1:KUppIJq7/+SVif2QVs3tOP0zanoHgBEVAwHxUSIzRqU=
 github.com/mwitkow/go-conntrack v0.0.0-20190716064945-2f068394615f/go.mod h1:qRWi+5nqEBWmkhHvq77mSJWrCKwh8bxhgT7d/eI7P4U=

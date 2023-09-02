@@ -238,5 +238,5 @@ replace (
 	github.com/cosmos/cosmos-sdk => github.com/celestiaorg/cosmos-sdk v1.18.0-sdk-v0.46.14
 	github.com/gogo/protobuf => github.com/regen-network/protobuf v1.3.3-alpha.regen.1
 	github.com/syndtr/goleveldb => github.com/syndtr/goleveldb v1.0.1-0.20210819022825-2ae1ddf74ef7
-	github.com/tendermint/tendermint => github.com/musalbas/celestia-core v0.0.0-20230902103342-e81edc4757de
+	github.com/tendermint/tendermint => github.com/musalbas/celestia-core v0.0.0-20230902141511-0455e653d8c6
 )
